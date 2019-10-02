@@ -1,0 +1,23 @@
+{
+    "whitelist": [
+        "aluminium can", 
+        "drink", 
+        "paper",
+        "newspapers",
+        "cardboard",
+        "magazine",
+        "book",
+        "glass",
+        "battery",
+        "bottle",
+        "aluminium tin",
+        "plastic bags",
+        "jar",
+        "envelope",
+        "drinkware",
+        "document",
+        "cup"
+
+
+    ]
+}
